@@ -1,0 +1,31 @@
+\contentsline {section}{\numberline {0.1}Introduction}{3}{}%
+\contentsline {section}{\numberline {0.2}Objectifs de travail}{3}{}%
+\contentsline {section}{\numberline {0.3}Partie I}{3}{}%
+\contentsline {section}{\numberline {0.4}Partie II}{4}{}%
+\contentsline {subsection}{\numberline {0.4.1}Graphe 1}{5}{}%
+\contentsline {subsection}{\numberline {0.4.2}Graphe 2}{5}{}%
+\contentsline {subsection}{\numberline {0.4.3}Graphe 3}{5}{}%
+\contentsline {section}{\numberline {0.5}Partie III}{6}{}%
+\contentsline {subsection}{\numberline {0.5.1}Construction d'un graphe}{6}{}%
+\contentsline {subsubsection}{utilisant la matrice d'adjacence}{6}{}%
+\contentsline {subsubsection}{utilisant la liste d'adjacence}{6}{}%
+\contentsline {subsection}{\numberline {0.5.2}Affichage de graphe}{7}{}%
+\contentsline {subsubsection}{utilisant la matrice d'adjacence}{7}{}%
+\contentsline {subsubsection}{utilisant la liste d'adjacence}{7}{}%
+\contentsline {subsection}{\numberline {0.5.3}Calcule de densité}{7}{}%
+\contentsline {subsubsection}{utilisant la matrice d'adjacence}{7}{}%
+\contentsline {subsubsection}{utilisant la liste d'adjacence}{8}{}%
+\contentsline {subsection}{\numberline {0.5.4}Calcule de degre}{8}{}%
+\contentsline {subsubsection}{utilisant la matrice d'adjacence}{8}{}%
+\contentsline {subsubsection}{utilisant la liste d'adjacence}{8}{}%
+\contentsline {subsection}{\numberline {0.5.5}Verification de graphe complet}{9}{}%
+\contentsline {subsubsection}{utilisant la matrice d'adjacence}{9}{}%
+\contentsline {subsubsection}{utilisant la liste d'adjacence}{9}{}%
+\contentsline {subsection}{\numberline {0.5.6}Recherche d'un noeud dans le graphe}{10}{}%
+\contentsline {subsubsection}{utilisant la matrice d'adjacence}{10}{}%
+\contentsline {subsubsection}{utilisant la liste d'adjacence}{10}{}%
+\contentsline {subsection}{\numberline {0.5.7}Recherche de tous les chemins}{10}{}%
+\contentsline {subsection}{\numberline {0.5.8}Recherche le chemin le plus court}{11}{}%
+\contentsline {section}{\numberline {0.6}Evaluation expérimentale}{11}{}%
+\contentsline {section}{\numberline {0.7}Conclusion}{12}{}%
+\contentsline {section}{\numberline {0.8}Annexe}{13}{}%
